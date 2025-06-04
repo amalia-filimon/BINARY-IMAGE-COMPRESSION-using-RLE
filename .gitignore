@@ -1,0 +1,37 @@
+# Build results
+x64/
+*.obj
+*.exe
+*.ilk
+*.log
+*.pdb
+*.ipch
+*.aps
+*.ncb
+*.sdf
+*.opensdf
+*.tlog
+*.user
+*.cache
+*.suo
+*.VC.db
+*.VC.opendb
+
+# Visual Studio folder
+.vs/
+
+# Backup and temporary files
+*~ 
+*.bak 
+*.tmp
+
+# CMake / Makefile
+CMakeFiles/
+CMakeCache.txt
+Makefile
+
+# OpenCV local libraries 
+OpenCV/
+
+# Video files
+Videos/
