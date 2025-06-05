@@ -13,7 +13,6 @@ This project implements a binary image compression algorithm using Run-Length En
 ## 📂 Structure
 
 - `main.cpp` – main function
-- `common.cpp / .h` – compression & decompression logic
 - `Images/` – input/output samples
 - `Presentation.pdf` – full project presentation in English
 
